@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.f0bcee13.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.85cad704.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.85cad704.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.326b641a.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.326b641a.js.map",
+    "static/js/2.ab540db2.chunk.js": "/react-gh-pages/static/js/2.ab540db2.chunk.js",
+    "static/js/2.ab540db2.chunk.js.map": "/react-gh-pages/static/js/2.ab540db2.chunk.js.map",
+    "static/js/3.22e82fcc.chunk.js": "/react-gh-pages/static/js/3.22e82fcc.chunk.js",
+    "static/js/3.22e82fcc.chunk.js.map": "/react-gh-pages/static/js/3.22e82fcc.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.f0bcee13.chunk.css.map": "/react-gh-pages/static/css/main.f0bcee13.chunk.css.map",
+    "static/js/2.ab540db2.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.ab540db2.chunk.js.LICENSE.txt",
+    "static/media/alchemylogo.9821dc1c.svg": "/react-gh-pages/static/media/alchemylogo.9821dc1c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.326b641a.js",
+    "static/js/2.ab540db2.chunk.js",
+    "static/css/main.f0bcee13.chunk.css",
+    "static/js/main.85cad704.chunk.js"
+  ]
+}
